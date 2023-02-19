@@ -1,3 +1,4 @@
+![Lyricz Finder](https://user-images.githubusercontent.com/105590061/219946861-d2eaaa12-073b-4993-a822-6d0ef7a05c5a.jpg)
 # Lyricz-Finder
 Lyrics Finder Website
 This is a lyrics finder website that allows users to search for lyrics of their favorite songs. Users can search by song title, artist name, or by entering a part of the lyrics. The website retrieves the relevant lyrics from the database and displays them on the user's screen.
