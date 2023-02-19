@@ -16,14 +16,14 @@ Node.js and Express.js for the server-side functionality
 PostgreSQL for the database
 
 # Getting Started
-Clone this repository to your local machine.
-- git clone https://github.com/Chinedu6/lyricz-Finder.git
-Install the dependencies.
-- npm install
-Set up the database by running the following command in the terminal:
-- npm run setup-database
-Start the server.
-- npm start
+- Clone this repository to your local machine.
+  - git clone https://github.com/Chinedu6/lyricz-Finder.git
+- Install the dependencies.
+  - npm install
+- Set up the database by running the following command in the terminal:
+  - npm run setup-database
+- Start the server.
+  - npm start
 Open your browser and navigate to http://localhost:5000 to access the website.
 
 # Contributing
